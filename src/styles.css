@@ -1,7 +1,56 @@
+body {
+  background-color: #a7a6ba;
+}
+
 h1 {
   text-align: center;
+  font-weight: bold;
+}
+
+select {
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 3px;
+  width: 175px;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 14px;
+}
+
+hr {
+  opacity: 10%;
 }
 
 footer {
   text-align: center;
+}
+
+.container {
+  font-family: sans-serif;
+  max-width: 600px;
+  margin: 50px auto;
+  border: solid 1px #a7a6ba;
+  border-radius: 5px;
+  background-color: white;
+  padding: 30px;
+}
+
+.time {
+  text-align: right;
+}
+
+.time h2 {
+  font-weight: bold;
+}
+
+.date {
+  opacity: 60%;
 }
