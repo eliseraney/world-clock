@@ -37,6 +37,14 @@ footer {
   text-align: center;
 }
 
+i {
+  color: #6e5494;
+}
+
+i:hover {
+  color: #333;
+}
+
 .container {
   font-family: sans-serif;
   max-width: 600px;
