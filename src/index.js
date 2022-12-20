@@ -91,7 +91,7 @@ function updateCityInterval(cityTimeZone, cityName) {
             <p class="date">${cityDate}</p>
           </div>
           <div class="col 6">
-            <h2 class="time">${cityTime}<small>${cityAmPm}</small></h2>
+            <h2 class="time">${cityTime} <small>${cityAmPm}</small></h2>
           </div>
   `;
   } else {
