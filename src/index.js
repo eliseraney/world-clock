@@ -92,6 +92,7 @@ function updateCityInterval(cityTimeZone, cityName) {
           <div class="col 6">
             <h2 class="time">${cityTime} <small>${cityAmPm}</small></h2>
           </div>
+          <a href="index.html">All cities</a>
   `;
   } else {
     location.reload();

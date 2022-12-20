@@ -33,6 +33,15 @@ hr {
   opacity: 10%;
 }
 
+a {
+  color: #301934;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6e5494;
+}
+
 footer {
   text-align: center;
 }
